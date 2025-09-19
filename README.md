@@ -19,3 +19,8 @@ Email texts represent the entirety of text content across both built-in emails a
 In the [email-texts folder](email-texts/), you can find the latest version of the Sharetribe Email texts. The filename signals the language.
 
 You can learn more about Email texts [in this article](https://www.sharetribe.com/help/en/articles/8478365).  New and updated Email texts can be found [here](https://www.sharetribe.com/help/en/articles/10164732).
+
+
+## Notes for developers and the Sharetribe team
+
+Sharetribe texts are updated automatically, through Sharetribe's own internal automated process using GitHub Actions. The translation JSON files or the folder structure should not be edited in this repository directly.
