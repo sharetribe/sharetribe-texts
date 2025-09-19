@@ -1,5 +1,5 @@
 {
-  "AddressLinkMaybe.viewOnGoogleMaps": "TEST View on Google Maps",
+  "AddressLinkMaybe.viewOnGoogleMaps": "View on Google Maps",
   "AuthenticationPage.confirmSignupInfoText": "Please check that your information is correct.",
   "AuthenticationPage.confirmSignupWithIdpTitle": "Sign up with {idp}",
   "AuthenticationPage.fixEmail": "Is there an error in your email? {fixEmailLink}.",

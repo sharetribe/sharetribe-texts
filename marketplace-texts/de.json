@@ -1,5 +1,5 @@
 {
-  "AddressLinkMaybe.viewOnGoogleMaps": "TEST - Auf Google Maps ansehen",
+  "AddressLinkMaybe.viewOnGoogleMaps": "Auf Google Maps ansehen",
   "AuthenticationPage.confirmSignupInfoText": "Bitte prüfe, dass deine Informationen korrekt sind.",
   "AuthenticationPage.confirmSignupWithIdpTitle": "Registriere mit {idp}",
   "AuthenticationPage.fixEmail": "Hoppla, Tippfehler in deiner E-Mail? {fixEmailLink}.",
@@ -462,8 +462,8 @@
   "InboxPage.salesTitle": "Posteingang: Als Eintragseigentümer",
   "InboxPage.seats": "Anzahl der Plätze: {seats}",
   "InboxPage.sortBy.createdAt": "Neueste",
-  "InboxPage.sortBy.lastMessageAt": "Latest message",
-  "InboxPage.sortBy.lastTransitionedAt": "Latest status change",
+  "InboxPage.sortBy.lastMessageAt": "Letzte Nachricht",
+  "InboxPage.sortBy.lastTransitionedAt": "Letzte Statusänderung",
   "InboxPage.title": "Eingang",
   "InboxSearchForm.sortLabel": "Sortieren nach:",
   "InquiryForm.heading": "Nach {listingTitle} anfragen",
