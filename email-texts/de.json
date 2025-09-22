@@ -8,7 +8,7 @@
   "BookingAcceptedRequest.MarketplaceFeeLabel": "{marketplaceName}}-Gebühr",
   "BookingAcceptedRequest.PriceBreakdownDaily": "{currency} {amount,number,::.00} × {multiplier, number} {multiplier, plural, one {Tag} other {Tage} }",
   "BookingAcceptedRequest.PriceBreakdownDailyWithSeats": "{currency} {amount, number, ::.00} × {multiplier, number} {multiplier, plural, one {Tag} other {Tage}} x {seats, number} {seats, plural, one {Sitz} other {Sitze}}",
-  "BookingAcceptedRequest.PriceBreakdownFixed":  "{amount, number, ::.00} {currency}",
+  "BookingAcceptedRequest.PriceBreakdownFixed": "{amount, number, ::.00} {currency}",
   "BookingAcceptedRequest.PriceBreakdownFixedWithSeats": "{amount, number, ::.00} {currency} × {seats, number} {seats, plural, one {Sitz} other {Sitze}}",
   "BookingAcceptedRequest.PriceBreakdownHourly": "{currency} {amount,number,::.00} × {multiplier, number} {multiplier, plural, one {Studen} other {Stunden} }",
   "BookingAcceptedRequest.PriceBreakdownHourlyWithSeats": "{currency} {amount, number, ::.00} × {multiplier, number} {multiplier, plural, one {Studen} other {Stunden}} x {seats, number} {seats, plural, one {Sitz} other {Sitze}}",
