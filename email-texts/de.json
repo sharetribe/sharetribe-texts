@@ -507,7 +507,7 @@
   "UserPermissionsChanged.Read.Allow": "Du kannst jetzt die Einträge anderer Benutzer einsehen.",
   "UserPermissionsChanged.Read.Deny": "Du kannst die Einträge anderer Benutzer nicht mehr einsehen.",
   "UserPermissionsChanged.Subject": "Deine Benutzerrechte auf {marketplaceName} haben sich geändert.",
-  "UserPermissionsChanged.Title": "Änderungen zu deiner Benutzerrechten auf {marketplaceName}",
+  "UserPermissionsChanged.Title": "Änderungen zu deinen Benutzerrechten auf {marketplaceName}",
   "UserPermissionsChanged.UserRightChangedParagraph": "{firstName}, deine Benutzerrechte auf {marketplaceName} haben sich geändert.",
   "VerifyChangedEmail.LinkExpiryText": "Der Link läuft in 48 Stunden ab.",
   "VerifyChangedEmail.Subject": "Anweisungen zur E-Mail-Bestätigung für {marketplaceName}",
