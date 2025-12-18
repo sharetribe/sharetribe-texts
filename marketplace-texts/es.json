@@ -1362,6 +1362,7 @@
   "TransactionPage.listingTitleMobile": "{listingLink}",
   "TransactionPage.loadingOrderData": "Cargando información de la transacción.",
   "TransactionPage.loadingSaleData": "Cargando información de la transacción.",
+  "TransactionPage.messageSenderBanned": "This message is hidden for safety reasons.",
   "TransactionPage.schemaTitle": "Detalles de la transacción: {title} | {h1}",
   "TransactionPage.unknownTransactionProcess": "Parece que los procesos del sistema no están actualizados. Comunícate con los administradores del sistema.",
   "TransactionPanel.activityHeading": "Actividad",
