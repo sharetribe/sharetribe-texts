@@ -1,7 +1,7 @@
 {
   "BookingAcceptedRequest.BookingBreakdown": "Hemos cargado {amount,number,::.00} {currency} a tu tarjeta. Aquí esta el desglose de la reserva.",
   "BookingAcceptedRequest.Cta": "Ver detalles del pedido",
-  "BookingAcceptedRequest.DescriptionDaily": "{providerDisplayName} aceptó tu solicitud de reserva del anuncio {listingTitle} de {dateStart,date,::hmmaYYYYMMMd} a {dateEnd,date,::hmmaYYYYMMMd}.",
+  "BookingAcceptedRequest.DescriptionDaily": "{providerDisplayName} aceptó tu solicitud de reserva del anuncio {listingTitle} de {dateStart,date,::YYYYMMMd} a {dateEnd,date,::YYYYMMMd}.",
   "BookingAcceptedRequest.DescriptionFixed": "{providerDisplayName} aceptó tu solicitud de reserva del anuncio {listingTitle} de {dateStart,date,::hmmaYYYYMMMd} a {dateEnd,date,::hmmaYYYYMMMd}.",
   "BookingAcceptedRequest.DescriptionHourly": "{providerDisplayName} aceptó tu solicitud de reserva del anuncio {listingTitle} de {dateStart,date,::jmmYYYYMMMd} a {dateEnd,date,::jmmYYYYMMMd}.",
   "BookingAcceptedRequest.End": "Fin",
