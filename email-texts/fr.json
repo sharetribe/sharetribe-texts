@@ -330,7 +330,7 @@
   "PurchaseNewOrder.MarkAsShipped": "Si la commande n'a pas été marquée comme expédiée sous deux semaines, elle expirera automatiquement et vous ne serez pas payé.",
   "PurchaseNewOrder.PickupLabel": "Retrait",
   "PurchaseNewOrder.QuantityLabel": "Quantité",
-  "PurchaseNewOrder.ShippingDetails": "Vous devez maintenant envoyer {listingTitle} à {customerDisplayName}. Vous pouvez trouver l'adresse d'envoi depuis les détails de la commande. Une fois que vous l'avez envoyée, n'oubliez pas de la marquer comme envoyée depuis <salelink>les détails de la commande</salelink> pour recevoir votre paiement.",
+  "PurchaseNewOrder.ShippingDetails": "Vous devez maintenant envoyer {listingTitle} à {customerDisplayName}. Vous pouvez trouver l'adresse d'envoi depuis les détails de la commande. Une fois que vous avez envoyé la commande, marquez la comme envoyée depuis <salelink>les détails de la commande</salelink>. Vous recevrez votre paiement après que le client aura confirmé la réception de la commande.",
   "PurchaseNewOrder.ShippingLabel": "Transport",
   "PurchaseNewOrder.Subject": "{customerDisplayName} a passé commande pour {transactionListingTitle}",
   "PurchaseNewOrder.SubtotalLabel": "Sous-total",

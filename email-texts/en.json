@@ -330,7 +330,7 @@
   "PurchaseNewOrder.MarkAsShipped": "If the order has not been marked as shipped within two weeks, it will expire automatically and you won't get paid.",
   "PurchaseNewOrder.PickupLabel": "Pickup",
   "PurchaseNewOrder.QuantityLabel": "Quantity",
-  "PurchaseNewOrder.ShippingDetails": "You should now ship {listingTitle} to {customerDisplayName}. You can find the shipping address from order details. Once you've shipped it, remember to mark it as shipped from <salelink>order details</salelink> to receive your payment.",
+  "PurchaseNewOrder.ShippingDetails": "You should now ship {listingTitle} to {customerDisplayName}. Find the shipping address in the order details. Once you've shipped the order, mark it as shipped on the <salelink>order page</salelink>. You'll receive your payment after the customer confirms they've received the order.",
   "PurchaseNewOrder.ShippingLabel": "Shipping",
   "PurchaseNewOrder.Subject": "{customerDisplayName} placed an order for {transactionListingTitle}",
   "PurchaseNewOrder.SubtotalLabel": "Subtotal",

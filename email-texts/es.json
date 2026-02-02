@@ -330,7 +330,7 @@
   "PurchaseNewOrder.MarkAsShipped": "Si el pedido no se marca como enviado en el plazo de dos semanas, expirará automáticamente y no se te pagará.",
   "PurchaseNewOrder.PickupLabel": "Recolectar",
   "PurchaseNewOrder.QuantityLabel": "Cantidad",
-  "PurchaseNewOrder.ShippingDetails": "Ahora debes enviar el pedido de {listingTitle} a {customerDisplayName}. Puedes encontrar la dirección de envío en los detalles del pedido. Una vez que lo hayas enviado, recuerda marcarlo como enviado desde <salelink>los detalles del pedido</salelink> para recibir tu pago.",
+  "PurchaseNewOrder.ShippingDetails": "Ahora debes enviar el pedido de {listingTitle} a {customerDisplayName}. Puedes encontrar la dirección de envío en los detalles del pedido. Una vez que lo hayas enviado, recuerda marcarlo como enviado desde <salelink>los detalles del pedido</salelink>. Recibirás tu pago cuando el cliente confirme de recibido.",
   "PurchaseNewOrder.ShippingLabel": "Envío",
   "PurchaseNewOrder.Subject": "{customerDisplayName} acaba de hacer un pedido de {transactionListingTitle}",
   "PurchaseNewOrder.SubtotalLabel": "Subtotal",

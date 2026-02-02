@@ -330,7 +330,7 @@
   "PurchaseNewOrder.MarkAsShipped": "Wenn die Bestellung nicht innerhalb von zwei Wochen als versandt markiert wird, verfällt sie automatisch und du erhältst keine Zahlung.",
   "PurchaseNewOrder.PickupLabel": "Abholung",
   "PurchaseNewOrder.QuantityLabel": "Menge",
-  "PurchaseNewOrder.ShippingDetails": "Du solltest jetzt {listingTitle} an {customerDisplayName} versenden. Die Lieferadresse findest du in den Bestelldetails. Denke nach dem Versand daran, es als versandt von <salelink>Bestelldetails</salelink> zu markieren, um deine Zahlung zu erhalten.",
+  "PurchaseNewOrder.ShippingDetails": "Du solltest jetzt {listingTitle} an {customerDisplayName} versenden. Die Lieferadresse ist in den Bestelldetails. Denke nach dem Versand daran, es als versandt auf <salelink>Bestelldetails</salelink> zu markieren. Du erhälst deine Zahlung nachdem der Kunde bestätigt, dass er/sie die Bestellung erhalten hat.",
   "PurchaseNewOrder.ShippingLabel": "Versand",
   "PurchaseNewOrder.Subject": "{customerDisplayName} hat eine Bestellung für {transactionListingTitle} aufgegeben",
   "PurchaseNewOrder.SubtotalLabel": "Zwischensumme",
