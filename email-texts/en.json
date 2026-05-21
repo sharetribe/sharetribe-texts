@@ -308,6 +308,8 @@
   "NegotiationWithdrawnRequest.Cta": "View request details",
   "NegotiationWithdrawnRequest.Subject": "{customerDisplayName} has withdrawn their quote request",
   "NegotiationWithdrawnRequest.Title": "{customerDisplayName} has withdrawn their quote request",
+  "NewMessage.DownloadFiles": "Download the files here",
+  "NewMessage.HasAttachments": "This message has file attachments.",
   "NewMessage.MessageSentParagraph": "{senderName} sent you a message in {marketplaceName}.",
   "NewMessage.ReplyLink": "Reply to {senderName}",
   "NewMessage.Subject": "{senderName} has sent you a new message",
