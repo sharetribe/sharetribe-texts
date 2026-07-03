@@ -45,7 +45,7 @@
   "BookingMoneyPaid.PriceBreakdownHourly": "{amount,number,::.00} {currency} × {multiplier, number} {multiplier, plural, one {heure} other {heures}}",
   "BookingMoneyPaid.PriceBreakdownHourlyWithSeats": "{currency} {amount, number, ::.00} × {multiplier, number} {multiplier, plural, one {heure} other {heures}} x {seats, number} {seats, plural, one {place} other {places}}",
   "BookingMoneyPaid.PriceBreakdownNightly": "{amount,number,::.00} {currency} × {multiplier, number} {multiplier, plural, one {nuit} other {nuits}}",
-  "BookingMoneyPaid.PriceBreakdownNightlyWithSeats": "{amount, number, ::.00} {currency} × {multiplier, number} {multiplier, plural, one {nuit} other {nuits}} x {seats, number} {seats, plural, one {place} other {places}}}",
+  "BookingMoneyPaid.PriceBreakdownNightlyWithSeats": "{amount, number, ::.00} {currency} × {multiplier, number} {multiplier, plural, one {nuit} other {nuits}} x {seats, number} {seats, plural, one {place} other {places}}",
   "BookingMoneyPaid.Subject": "Vous avez été payé {amount,number,::.00} {currency}",
   "BookingMoneyPaid.Title": "Vous avez été payé {amount,number,::.00} {currency}",
   "BookingNewRequest.AcceptOrDeclineLink": "Accepter ou Refuser la réservation",
