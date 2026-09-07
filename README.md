@@ -1,6 +1,6 @@
 # Sharetribe texts
 
-Sharetribe texts are the Marketplace and Email texts added as default to new Sharetribe accounts created at https://www.sharetribe.com/. Some translations are also available.
+Sharetribe texts are the Marketplace and Email texts added as default to new Sharetribe accounts created at https://www.sharetribe.com/. Some AI-generated translations are also available.
 
 
 ## Marketplace texts
