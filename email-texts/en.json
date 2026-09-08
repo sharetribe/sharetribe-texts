@@ -40,7 +40,7 @@
   "BookingMoneyPaid.PayoutLabel": "You'll earn",
   "BookingMoneyPaid.PriceBreakdownDaily": "{currency} {amount,number,::.00} × {multiplier, number} {multiplier, plural, one {day} other {days}}",
   "BookingMoneyPaid.PriceBreakdownDailyWithSeats": "{currency} {amount, number, ::.00} × {multiplier, number} {multiplier, plural, one {day} other {days}} × {seats, number} {seats, plural, one {seat} other {seats}}",
-  "BookingMoneyPaid.PriceBreakdownFixed": "{amount, number, ::.00} {currency}",
+  "BookingMoneyPaid.PriceBreakdownFixed": "{currency} {amount, number, ::.00}",
   "BookingMoneyPaid.PriceBreakdownFixedWithSeats": "{currency} {amount, number, ::.00} × {seats, number} {seats, plural, one {seat} other {seats}}",
   "BookingMoneyPaid.PriceBreakdownHourly": "{currency} {amount,number,::.00} × {multiplier, number} {multiplier, plural, one {hour} other {hours}}",
   "BookingMoneyPaid.PriceBreakdownHourlyWithSeats": "{currency} {amount, number, ::.00} × {multiplier, number} {multiplier, plural, one {hour} other {hours}} × {seats, number} {seats, plural, one {seat} other {seats}}",
